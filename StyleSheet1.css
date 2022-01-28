@@ -1,0 +1,34 @@
+﻿body
+{
+    background-color: powderblue
+}
+
+#header
+{
+    height: 250px
+}
+
+#contactInfo
+{
+    float: left;
+    width: 800px;
+    height: auto;
+    margin: 10px;
+    text-align: center;
+}
+
+hr
+{
+    height: 20px;
+    background-color:black;
+    clear: both
+}
+
+#pic
+{
+    float: none;
+    width: auto;
+    height: auto;
+    margin: 30px
+}
+
